@@ -2,7 +2,8 @@
 
 > Convolutional Neural Networks
 
-1. Comprehensive Approach to Lung Cancer Nodule Detection and Classification (http://cs231n.stanford.edu/reports/2017/pdfs/515.pdf)
+1. Comprehensive Approach to Lung Cancer Nodule Detection and Classification (http://cs231n.stanford.edu/reports/2017/pdfs/515.pdf).
+2. Residual Networks (https://arxiv.org/pdf/1512.03385.pdf).
 
 > Recurrent Neural Networks
 
