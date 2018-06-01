@@ -21,3 +21,4 @@
 6. Fin-tuning pre-trained ResNet50 (https://github.com/keras-team/keras/issues/3622).
 7. Understanding ResNets (https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cf51669e1624).
 8. Implementing Pre-trained Architectures (https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html).
+9. Pre-trained Architecture Example (https://gogul09.github.io/software/flower-recognition-deep-learning).
