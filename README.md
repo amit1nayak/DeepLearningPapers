@@ -23,3 +23,4 @@
 8. Implementing Pre-trained Architectures (https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html).
 9. Pre-trained Architecture Example (https://gogul09.github.io/software/flower-recognition-deep-learning).
 10. Image Segmentation with Scikit-Image (http://douglasduhaime.com/posts/simple-image-segmentation-with-scikit-image.html).
+11. https://machinelearningmastery.com/image-augmentation-deep-learning-keras/
